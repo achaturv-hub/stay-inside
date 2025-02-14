@@ -2,11 +2,14 @@
 
 A simple camera web app that leverages TensorFlow for real-time facial tracking, for taking automatic selfie on face-detetcion.
 
-###Getting Started
+## Getting Started
 
 1. Go to the root directory and install dependencies.
+
 `$ npm install`
+
 2. Start development server
+
 `$ npm run dev`
 
 3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -24,5 +27,7 @@ See [Demo](https://stay-inside.anushchat.dev/)
 - [Face-Landmarks-Detection](https://www.npmjs.com/package/@tensorflow-models/face-landmarks-detection) - Real-time face detection library utilizing TensorFlow.js
 
 ## Author
+
 Anush Chaturvedi 
+
 https://portfolio.anushchat.dev
